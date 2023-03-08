@@ -10,3 +10,4 @@
 "9-firstdirdeletion" dlete the directory
 "10-back" changes to previous directory
 "11-lists" lists current, parent and /boot directories
+"12-file_type" displays file typ
