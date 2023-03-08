@@ -12,3 +12,4 @@
 "11-lists" lists current, parent and /boot directories
 "12-file_type" displays file type
 "13-symbolic_link" creates a link to file
+"14-copy_html" copy updates to parent dir
