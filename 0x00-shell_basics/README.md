@@ -4,3 +4,4 @@
 "3-listfiles" display long format of files of current directory
 "4-listmorefiles" displays all files of current directory
 "5-listfilesdigitonly" list file in numerical long display
+"6-firstdirectory" creates directory in /tmp
