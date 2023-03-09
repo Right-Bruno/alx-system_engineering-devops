@@ -14,3 +14,4 @@
 "13-symbolic_link" creates a link to file
 "14-copy_html" copy updates to parent dir
 "100-lets_move" moves capitalized files
+"101-clean_emacs" deletes files ending in 
