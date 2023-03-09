@@ -16,3 +16,4 @@
 "100-lets_move" moves capitalized files
 "101-clean_emacs" deletes files ending in ~
 "102-tree" creates 3 directories 
+"103-commas" creates a comma list of files
