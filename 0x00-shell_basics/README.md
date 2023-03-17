@@ -17,3 +17,4 @@
 "101-clean_emacs" deletes files ending in ~
 "102-tree" creates 3 directories 
 "103-commas" creates a comma list of files
+school.mgc detects school data files
