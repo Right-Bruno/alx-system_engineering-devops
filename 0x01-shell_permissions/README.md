@@ -7,3 +7,4 @@
 
 
 
+9-John Doe makes rwxr-x-wr mode for hello file
