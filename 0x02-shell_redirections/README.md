@@ -7,3 +7,4 @@
 5. 10 first line of password file will be printed with 5-firstlines
 6. Third line is printed with 6-third line command
 7. creates a file
+8. Standard out of ls will be stored in a file
