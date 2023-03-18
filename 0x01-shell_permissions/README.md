@@ -12,3 +12,4 @@
 11-directories permissions add execute permit of directory to all
 12 directory permissions creates a 751 mode directory
 13 change group change owner of hello to school
+100 change owner and group make owner vincent , group staff for all files
