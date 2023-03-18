@@ -8,4 +8,5 @@
 
 
 9-John Doe makes rwxr-x-wr mode for hello file
-10-mirror_permissions create mirror mode of olleh to home file
+10-mirror-permissions create mirror mode of olleh to home file
+11-directories permissions add execute permit of directory to all
