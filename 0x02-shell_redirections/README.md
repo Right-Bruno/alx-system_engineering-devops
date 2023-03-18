@@ -3,3 +3,4 @@
 2. confused smiley is printed with 1-confused-smiley
 3. /etc/passwd content will be printed with 2-hellofile
 3. /etc/passwd and /etc/hosts will be printed with 3-twofiles
+4. 10 first line of password files will be printed with 4-lastlines
