@@ -15,3 +15,4 @@
 100 change owner and group make owner vincent , group staff for all files
 101-symbolic_link_permissions
 101 symbolic link permissions change owner and group owner of _hello
+102 if only guillaume is the owner change to betty
