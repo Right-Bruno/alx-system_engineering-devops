@@ -6,3 +6,4 @@
 4. 10 first line of password files will be printed with 4-lastlines
 5. 10 first line of password file will be printed with 5-firstlines
 6. Third line is printed with 6-third line command
+7. creates a file
