@@ -13,3 +13,5 @@
 12 directory permissions creates a 751 mode directory
 13 change group change owner of hello to school
 100 change owner and group make owner vincent , group staff for all files
+101-symbolic_link_permissions
+101 symbolic link permissions change owner and group owner of _hello
