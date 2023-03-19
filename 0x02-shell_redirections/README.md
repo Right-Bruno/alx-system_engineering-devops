@@ -18,3 +18,4 @@
 16. will show what's next to the root word found in folder
 17. hides lines with bin
 18. show lines starting with letters
+19. change character A and c
