@@ -12,3 +12,4 @@
 10. js file and subdirectories will be delete with 10-no...
 11. directories of current directories will be printed in count
 12. a list of newest file is displayed in 12-new... command
+13. a unique file will be created with 13-unique command
