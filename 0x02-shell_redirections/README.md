@@ -19,3 +19,4 @@
 17. hides lines with bin
 18. show lines starting with letters
 19. change character A and c
+delete C and c CHARACTERS
