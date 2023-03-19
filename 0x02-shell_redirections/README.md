@@ -8,3 +8,4 @@
 6. Third line is printed with 6-third line command
 7. creates a file
 8. Standard out of ls will be stored in a file
+9. last line of iacta will be duplicate with 9-duplicate last line
