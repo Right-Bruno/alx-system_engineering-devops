@@ -1,2 +1,2 @@
 #!/bin/bash
-a='\*\\'; b='"Best School"'; c='\\*$\?\*\*\*\*\*:)'; echo Best School >> "$a$b$c"
+echo Best School > "\\*\\\'\"Best School\"\\'\\\*$\?\*\*\*\*\*:)"
