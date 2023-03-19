@@ -9,3 +9,4 @@
 7. creates a file
 8. Standard out of ls will be stored in a file
 9. last line of iacta will be duplicate with 9-duplicate last line
+10. js file and subdirectories will be delete with 10-no...
