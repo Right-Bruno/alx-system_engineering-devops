@@ -13,3 +13,4 @@
 11. directories of current directories will be printed in count
 12. a list of newest file is displayed in 12-new... command
 13. a unique file will be created with 13-unique command
+14. it will find the word rood
