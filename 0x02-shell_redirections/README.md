@@ -17,3 +17,4 @@
 15. counted number of lines with root in a file
 16. will show what's next to the root word found in folder
 17. hides lines with bin
+18. show lines starting with letters
