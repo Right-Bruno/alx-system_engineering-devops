@@ -20,3 +20,4 @@
 18. show lines starting with letters
 19. change character A and c
 delete C and c CHARACTERS
+21. reverse the input with 21-reverse command
