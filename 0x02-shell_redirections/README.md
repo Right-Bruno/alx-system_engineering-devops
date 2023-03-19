@@ -14,3 +14,4 @@
 12. a list of newest file is displayed in 12-new... command
 13. a unique file will be created with 13-unique command
 14. it will find the word rood
+15. counted number of lines with root in a file
