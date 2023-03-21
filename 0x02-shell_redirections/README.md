@@ -22,3 +22,4 @@
 delete C and c CHARACTERS
 21. reverse the input with 21-reverse command
 22. Users and their homes are printed
+100 finds empty files
