@@ -8,3 +8,4 @@
 3. we also updated the variable path to contain action file
 4. We print number of directories in the PATH variable
 5. we also print the environmental variables
+6. we also printed the all variables and functions
