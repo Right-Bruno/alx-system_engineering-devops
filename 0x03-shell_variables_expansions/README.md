@@ -15,3 +15,4 @@
 10. we also did an arithmetic to for division
 11. we need to also add exponential expression
 12. I also wrote code to change base 2 number to decimal
+13. printing a combination of letters was also done successfully
