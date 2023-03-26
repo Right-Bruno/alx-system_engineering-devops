@@ -4,3 +4,4 @@
 # technical skill of being an ethical software engineer through ALX
 # program. Let's start.
 1. At first we create a file that can create an alias for removing files
+2. Second we create a file that greats the current user
