@@ -6,3 +6,4 @@
 1. At first we create a file that can create an alias for removing files
 2. Second we create a file that greats the current user
 3. we also updated the variable path to contain action file
+4. We print number of directories in the PATH variable
