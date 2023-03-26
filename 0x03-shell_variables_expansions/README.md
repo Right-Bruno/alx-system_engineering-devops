@@ -13,3 +13,4 @@
 8. We also created the global variable
 9. we also created an arithmetic expansion
 10. we also did an arithmetic to for division
+11. we need to also add exponential expression
