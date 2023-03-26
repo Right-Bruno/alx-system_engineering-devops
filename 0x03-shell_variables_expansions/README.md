@@ -12,3 +12,4 @@
 7. Creating a first local variable was awesome
 8. We also created the global variable
 9. we also created an arithmetic expansion
+10. we also did an arithmetic to for division
