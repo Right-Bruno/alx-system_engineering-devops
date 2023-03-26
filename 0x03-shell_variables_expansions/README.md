@@ -7,3 +7,4 @@
 2. Second we create a file that greats the current user
 3. we also updated the variable path to contain action file
 4. We print number of directories in the PATH variable
+5. we also print the environmental variables
