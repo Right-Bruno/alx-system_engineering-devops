@@ -10,3 +10,4 @@
 5. we also print the environmental variables
 6. we also printed the all variables and functions
 7. Creating a first local variable was awesome
+8. We also created the global variable
